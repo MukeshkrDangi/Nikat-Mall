@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "196319945615",
+    "project_id": "nikat-shop-78dd5",
+    "storage_bucket": "nikat-shop-78dd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196319945615:android:ac8a632787bd9bf4e6e1fa",
+        "android_client_info": {
+          "package_name": "com.example.nikatshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196319945615-sjullkgjbtaikkm9p5vj5f3oune6lfj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlJNSVOtOtuDwTmBS4dVJsDyz_7R8HCN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196319945615-sjullkgjbtaikkm9p5vj5f3oune6lfj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

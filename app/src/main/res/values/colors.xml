@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FF7741</color>
+    <color name="purple_500">#FFA647</color>////btn///
+    <color name="purple_700">#FF8747</color>////status bar//
+    <color name="teal_200">#FF8747</color>
+    <color name="teal_700">#FF8747</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="botton">#74F4BD</color>
+    <color name="primeryRed">#FF0000</color>
+    <color name="successGreen">#6AFF00</color>
+    <color name="RecyclerViewBackground">#d6d6d6</color>
+
+</resources>

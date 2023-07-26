@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProductDescriptionFragment">
+
+    <TextView
+        android:id="@+id/tv_product_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:textColor="@color/black"
+        android:text="Most of the girls belonging to poor families do not go to schools in rural areas.
+When asked, their parents would say that they want their daughters to be educated. They
+stay at home because their parents believe that the kind of education is not appropriate
+for their daughters, or because they feel the risks are too great. Those risks are real. Girls
+are sexually harassed sometimes by their fellow students or teachers or by strangers as
+they walk down to school. These pressures are central to low enrolment and retention of
+girls. Poverty also plays its part. If their clothes are torn, girls from poor families will
+stay at home. In such cases they are forced by the demands of modesty and propriety" />
+</FrameLayout>

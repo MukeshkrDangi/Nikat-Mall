@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/white"
+    android:elevation="3dp"
+    android:layout_marginTop="8dp"
+    android:layout_marginBottom="8dp"
+    android:id="@+id/product_details_container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/product_detalis_title"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="#DAFFF7"
+        android:padding="16dp"
+        android:text="Product Detailds"
+        android:textColor="#787878"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/product_details_body"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:text="Read the passage and choose the correct option .
+In the year 2015, Malala Yousafzai became the youngest ever Nobel Prize
+winner. She shared her award with Kailash Satyarthi. She had been shot in
+her head by the Taliban for promoting education for girls in Pakistan. “Let
+this end with us.” That was the message of Malala during her Nobel
+acceptance speech.
+"
+        android:textColor="@color/black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/product_detalis_title" />
+</androidx.constraintlayout.widget.ConstraintLayout>
